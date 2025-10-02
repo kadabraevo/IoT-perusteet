@@ -3,6 +3,7 @@
 Week one assignments, contains main.py and diagram.json for every board
 
 ## Harkka2
-Sample server that allows postman to GET data
+Simple server that allows postman to GET data
 
-##Harkka3
+## Harkka3
+Simple server that allows postman to POST and GET data from a database

@@ -10,6 +10,7 @@ Simple server that allows postman to GET data
 ## Harkka3
 Simple server that allows postman to POST and GET data from a database
 
-#EndProject
+# EndProject
 A data pipeline from a temperature sensor that sends data to thingspeak, and a html + script that gets the data from thingspeak and draws a google chart.
-https://gyazo.com/c1654b7fa3d5896303ca2d73553c24bc
+
+<img width="775" height="514" alt="graphchart" src="https://github.com/user-attachments/assets/1e5db25f-29af-4242-9905-9a3da325eda3" />

@@ -1,2 +1,5 @@
 # IoT-perusteet
-## Viikk1 
+## Harkka1 
+Week one assignments, contains main.py and diagram.json for every board
+
+## Harkka2
